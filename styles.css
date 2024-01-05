@@ -1,1 +1,32 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  color: white;
+}
 
+input {
+  padding: 15px;
+  border: 2px solid #0056d6;
+  border-radius: 80px;
+  background-color: #000;
+  color: #fff;
+  font-size: 16px;
+}
+button {
+  padding: 15px;
+  background-color: black;
+  color: white;
+  border: 2px solid #0056d6;
+  border-radius: 80px;
+  cursor: pointer;
+  font-size: 32px;
+}
+
+td {
+  font-size: 60px;
+}
+
+table {
+  border: none !important;
+}
